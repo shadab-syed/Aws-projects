@@ -37,7 +37,7 @@ A serverless project that automatically generates thumbnails from images uploade
 - Click on "create Function".
 - Click "Author From Scratch" and scroll down and name the function (eg: my lambda function)
 - Under Runtime Select Python 3.9
-- Under change default execution role create a role and select it.(Role is in role.md edit it and give your bucket names)
+- Under change default execution role create a role and select it.(Role is in iam role for lambda.json, edit it and give your bucket names)
 - Create Function
 
 
