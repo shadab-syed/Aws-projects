@@ -48,7 +48,7 @@ A serverless project that automatically generates thumbnails from images uploade
 
 - mkdir thumbnail-lambda      (to create a directory)
 - cd thumbnail-lambda
-- nano lambda_function.py   (to create a python file. paste the python lambda function code from the file and save it)
+- nano lambda_function.py   ( create a python file. paste the python lambda function code from #lambda_function.py# file as given above and save it)
 - sudo yum -y install python-pip (to install pip)
 - pip install pillow -t .
 - zip -r function.zip .
